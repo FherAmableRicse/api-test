@@ -1,4 +1,4 @@
-{
+[
    {
    "id":1,
    "nombre":"1/4 pollo a la brasa",
@@ -71,4 +71,4 @@
    "precio":10,
    "imagen":"https://img.freepik.com/foto-gratis/porcion-papas-fritas-papas-fritas_135427-1884.jpg?w=2000"
 }
-}
+]
